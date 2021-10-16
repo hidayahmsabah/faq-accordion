@@ -123,6 +123,16 @@ section div{
     line-height: 3em;
 }
 
+@media (hover: none) and (pointer: coarse) {
+    .question:hover{
+        cursor: pointer;
+        color: #1d1e35;
+    }
+    
+    .question:active{
+        color: #1d1e35;
+    }
+}
 
 @media screen and (min-width: 800px) {
     #images{
