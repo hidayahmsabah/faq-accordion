@@ -27,7 +27,7 @@ Users should be able to:
 
 ![Rest State for Desktop Layout](images/rest-state-desktop.png?raw=true "Rest State")
 ![Active State for Desktop Layout](images/active-state-desktop.png?raw=true "Active State")
-![Rest State for Mobile Layout](images/active-state-mobile.png?raw=true "Rest State - Mobile Version")
+![Rest State for Mobile Layout](images/rest-state-mobile.png?raw=true "Rest State - Mobile Version")
 
 ### Link
 
